@@ -1,3 +1,6 @@
+![image](https://github.com/HubercikTM1/angular-lazy-loading/assets/91783956/8a161f8b-833f-41dc-a385-f6ddbed1f07c)
+
+
 # LazyLoadingProject
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.2.
